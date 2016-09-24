@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.print("hello world");
         System.out.print("this is the mac");
+        System.out.print("checking shit out");
     }
 }
