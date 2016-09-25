@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) throws FileNotFoundException {
 	// write your code here
-        Scanner in = new Scanner(new File("C:\\Users\\Yh\\IdeaProjects\\yh-hack\\src\\input"));
+        Scanner in = new Scanner(new File("./src/input"));
 
         int size_of_input = in.nextInt();
         int run_query_this_many_times = in.nextInt();
